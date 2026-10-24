@@ -8,19 +8,19 @@ I created the macropad with only 4 keys just because I'm a beginner at PCB desig
 
 ### Schematic
 
-[Image of Schematic Design](images/schematic.png)
+![Image of Schematic Design](images/schematic.png)
 
 ### PCB Design
 
-[Image of PCB](images/pcb.png)
+![Image of PCB](images/pcb.png)
 
 ### Case
 
-[Image of Case](images/case.png)
+![Image of Case](images/case.png)
 
 ### Full Assembly
 
-[Image of Full Assembly](images/full-assembly.png)
+![Image of Full Assembly](images/full-assembly.png)
 
 The case was designed in AutoDesk! Deeper learning curve compared to Onshape (what I'm used to).
 
