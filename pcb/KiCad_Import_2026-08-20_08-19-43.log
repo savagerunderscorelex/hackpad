@@ -1,0 +1,73 @@
+[2026-08-20 08:19:43,435][INFO]:  Importing File: C:/Users/eigbe/OneDrive/Documents/KiCad/9.0/projects/hackpad/hackpad.kicad_pcb
+[2026-08-20 08:19:43,444][INFO]:  Adding companion document: C:/Users/eigbe/OneDrive/Documents/KiCad/9.0/projects/hackpad/hackpad.kicad_sch
+[2026-08-20 08:19:43,452][INFO]:  Processing documents list
+[2026-08-20 08:19:43,453][INFO]:  Reading document: hackpad.kicad_pcb
+[2026-08-20 08:19:43,465][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'dimension' of parentNode 'kicad_pcb' at line: 4562
+[2026-08-20 08:19:43,465][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'dimension' of parentNode 'kicad_pcb' at line: 4600
+[2026-08-20 08:19:43,467][INFO]:  Converting document: 'C:/Users/eigbe/OneDrive/Documents/KiCad/9.0/projects/hackpad/hackpad.kicad_pcb'
+[2026-08-20 08:19:52,641][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 138 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,649][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 423 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,652][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 963 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,653][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 1248 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,736][INFO]:  Finished processing document: 'C:/Users/eigbe/OneDrive/Documents/KiCad/9.0/projects/hackpad/hackpad.kicad_pcb'
+[2026-08-20 08:19:52,736][INFO]:  Reading document: hackpad.kicad_sch
+[2026-08-20 08:19:52,739][INFO]:  Converting document: 'C:/Users/eigbe/OneDrive/Documents/KiCad/9.0/projects/hackpad/hackpad.kicad_sch'
+[2026-08-20 08:19:52,740][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Switch:SW_Push'
+[2026-08-20 08:19:52,745][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'SW_Push'
+[2026-08-20 08:19:52,754][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'SW_PUSH' finished successfully
+[2026-08-20 08:19:52,754][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Switch:SW_Push' finished successfully
+[2026-08-20 08:19:52,754][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'die:OLED'
+[2026-08-20 08:19:52,754][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'OLED'
+[2026-08-20 08:19:52,756][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'OLED' finished successfully
+[2026-08-20 08:19:52,756][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'die:OLED' finished successfully
+[2026-08-20 08:19:52,756][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'hackpad-2:MOUDLE-SEEEDUINO-XIAO'
+[2026-08-20 08:19:52,756][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'MOUDLE-SEEEDUINO-XIAO'
+[2026-08-20 08:19:52,758][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'MOUDLE-SEEEDUINO-XIAO' finished successfully
+[2026-08-20 08:19:52,758][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'hackpad-2:MOUDLE-SEEEDUINO-XIAO' finished successfully
+[2026-08-20 08:19:52,758][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'power:GND'
+[2026-08-20 08:19:52,758][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'GND'
+[2026-08-20 08:19:52,760][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'GND' finished successfully
+[2026-08-20 08:19:52,760][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'power:GND' finished successfully
+[2026-08-20 08:19:52,760][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'power:VCC'
+[2026-08-20 08:19:52,760][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'VCC'
+[2026-08-20 08:19:52,761][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'VCC' finished successfully
+[2026-08-20 08:19:52,761][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'power:VCC' finished successfully
+[2026-08-20 08:19:52,761][INFO]:  Converted 5 schematic symbols
+[2026-08-20 08:19:52,781][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1284 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,784][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1331 need to be changed to 'FOOTPRINT'
+[2026-08-20 08:19:52,785][INFO]:  KiCad Schematic Converter: Attribute name 'Datasheet' from line 1340 need to be changed to 'DATASHEET'
+[2026-08-20 08:19:52,785][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1349 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,786][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1399 need to be changed to 'FOOTPRINT'
+[2026-08-20 08:19:52,788][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1473 need to be changed to 'FOOTPRINT'
+[2026-08-20 08:19:52,789][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1577 need to be changed to 'FOOTPRINT'
+[2026-08-20 08:19:52,789][INFO]:  KiCad Schematic Converter: Attribute name 'Datasheet' from line 1586 need to be changed to 'DATASHEET'
+[2026-08-20 08:19:52,789][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1595 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,790][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1645 need to be changed to 'FOOTPRINT'
+[2026-08-20 08:19:52,790][INFO]:  KiCad Schematic Converter: Attribute name 'Datasheet' from line 1654 need to be changed to 'DATASHEET'
+[2026-08-20 08:19:52,790][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1663 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,791][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1733 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,793][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1780 need to be changed to 'FOOTPRINT'
+[2026-08-20 08:19:52,793][INFO]:  KiCad Schematic Converter: Attribute name 'Datasheet' from line 1789 need to be changed to 'DATASHEET'
+[2026-08-20 08:19:52,793][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1798 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,794][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1868 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,797][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1935 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,798][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 2001 need to be changed to 'DESCRIPTION'
+[2026-08-20 08:19:52,798][INFO]:  Finished processing document: 'C:/Users/eigbe/OneDrive/Documents/KiCad/9.0/projects/hackpad/hackpad.kicad_sch'
+[2026-08-20 08:19:52,798][INFO]:  Processing documents list finished
+[2026-08-20 08:19:52,798][INFO]:  KiCad Importer Post Processor: Postprocessing imported design
+[2026-08-20 08:19:52,799][INFO]:  KiCad Importer Post Processor: Processing board components
+[2026-08-20 08:19:52,799][INFO]:  KiCad Importer Post Processor: Package 'SW_CHERRY_MX_1.00U_PCB' was moved from library 'Button_Switch_Keyboard' to 'Switch' as 'BUTTON_SWITCH_KEYBOARD_SW_CHERRY_MX_1.00U_PCB'
+[2026-08-20 08:19:52,801][INFO]:  KiCad Importer Post Processor: Package 'SSD1306-0.91-OLED-4PIN-128X32' was moved from library 'hi' to 'die' as 'HI_SSD1306-0.91-OLED-4PIN-128X32'
+[2026-08-20 08:19:52,803][INFO]:  KiCad Importer Post Processor: Package 'XIAO-GENERIC-HYBRID-14P-2.54-21X17.8MM' was moved from library 'hackpad-footprint' to 'hackpad-2' as 'HACKPAD-FOOTPRINT_XIAO-GENERIC-HYBRID-14P-2.54-21X17.8MM'
+[2026-08-20 08:19:52,805][INFO]:  KiCad Importer Post Processor: Processing board components finished
+[2026-08-20 08:19:52,805][INFO]:  KiCad Importer Post Processor: Processing board nets
+[2026-08-20 08:19:52,806][INFO]:  KiCad Importer Post Processor: Board signal 'NET-(U1-PA4_A1_D1)' name was changed to match schematic net name 'N$2'
+[2026-08-20 08:19:52,806][INFO]:  KiCad Importer Post Processor: Board signal 'NET-(U1-PA11_A3_D3)' name was changed to match schematic net name 'N$6'
+[2026-08-20 08:19:52,806][INFO]:  KiCad Importer Post Processor: Board signal 'NET-(U1-PA02_A0_D0)' name was changed to match schematic net name 'N$7'
+[2026-08-20 08:19:52,806][INFO]:  KiCad Importer Post Processor: Board signal 'NET-(OL1-SCL)' name was changed to match schematic net name 'N$11'
+[2026-08-20 08:19:52,807][INFO]:  KiCad Importer Post Processor: Board signal 'NET-(U1-PA10_A2_D2)' name was changed to match schematic net name 'N$14'
+[2026-08-20 08:19:52,807][INFO]:  KiCad Importer Post Processor: Processing board nets finished
+[2026-08-20 08:19:52,807][INFO]:  KiCad Importer Post Processor: Processing net classes
+[2026-08-20 08:19:52,809][INFO]:  KiCad Importer Post Processor: Processing net classes finished
+[2026-08-20 08:19:52,809][INFO]:  KiCad Importer Post Processor: Postprocessing imported design finished
+[2026-08-20 08:19:52,845][INFO]:  Import finished
