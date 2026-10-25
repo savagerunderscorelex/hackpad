@@ -28,3 +28,5 @@ The case was designed in AutoDesk! Deeper learning curve compared to Onshape (wh
 
 - 4x Cherry MX Switches
 - 128x32 OLED Display
+- 4x Cherry DSA Keycaps
+- 1x Seeed Studio XIAO RP2040
